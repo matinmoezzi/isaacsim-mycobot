@@ -1,0 +1,3 @@
+v1 - completed to insert only one model into the isaac sim through random policy, but have issues with multiple training object.
+
+v2 - 
